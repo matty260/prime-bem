@@ -1,0 +1,30 @@
+{
+  "name": "@dev-prime/bem-helper",
+  "version": "1.0.1",
+  "description": "BEM helper function for generating class names following the BEM naming convention.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "vue",
+    "react",
+    "bem",
+    "helper",
+    "class names",
+    "vue 3",
+    "reactjs",
+    "vuejs",
+    "bem naming",
+    "css"
+  ],
+  "author": "Mateusz Hudzik <mateusz.hudzik@devprime.pl",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
